@@ -1,0 +1,44 @@
+<style>
+#main {
+}
+header {
+  background-color: black;
+}
+#title {
+  color: red;
+  text-align: center;
+}
+#title-caption {
+  color: red;
+  text-align: center;
+}
+#img-div {
+  background-color: pink;
+  color: black;
+}
+#image {
+  display: block;
+  text-align: center;
+  max-width: 1024px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+#img-caption {
+  color: red;
+  text-align: center;
+}
+#tribute-info {
+ background-color: pink;
+}
+h2 {
+  text-align: center;
+  color: red;
+  background-color: black;
+}
+#endinginfo {
+  color: red;
+  background-color: pink;
+  text-align: center;
+}
+</style>
